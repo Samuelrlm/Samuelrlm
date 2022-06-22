@@ -1,10 +1,12 @@
-### Iaee!! Eu sou o Samuel, progamador de automações e estudante de progamação!
+ <h1 align="center">Iae! Eu sou o <a href="https://www.linkedin.com/in/Samuelrlm/"><i>Samuel Lima.</i></a> </h1>
 
-<div align="side">
+<div align="center">
   <a href="https://github.com/Samuelrlm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelrlm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelrlm&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Samuelrlm&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelrlm&theme=radical&hide_border=false&&layout=compact"/>
+  </a>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
